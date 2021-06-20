@@ -1,2 +1,2 @@
-# ABC_-algorithm
+# ABC_algorithm
 ABCアルゴリズム
